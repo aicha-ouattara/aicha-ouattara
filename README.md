@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Free-lance project**
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **htmx**
 
 - 👯 I’m looking to collaborate on **New opportunity**
 
